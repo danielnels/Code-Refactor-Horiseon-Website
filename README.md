@@ -26,5 +26,5 @@ THEN I find a concise, descriptive title
 
 ## Screenshot
 ![Horiseon website](https://user-images.githubusercontent.com/94213022/145133575-4cbdcea4-ec6b-4a43-ae15-d463da1b1217.png)
-## Webpsite link
+## Website link
 https://danielnels.github.io/Code-Refactor-Horiseon-Website/
